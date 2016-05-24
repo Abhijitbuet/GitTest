@@ -56,5 +56,6 @@ if(i==0 || i==1 || i==9 || i==14 || i==15 || i==17 || i==18|| i==19 )//continue;
 	}
 	out.println(s1);
 	out.close();
+	System.out.println("hello world");
 	}
 }
